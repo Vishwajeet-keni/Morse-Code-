@@ -1,4 +1,4 @@
-# Morse-Code-
+# Morse-Code
 <h3>Work to do:-</h3>
 <P> 1. tranclate english to morse and vice versa<br>
     2. mores to mp3 and vise versa </P> 
